@@ -5,9 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "today" : "node date.js"
+    "today": "node date.js",
+    "weather": "node weather.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
 }
