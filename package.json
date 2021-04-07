@@ -1,0 +1,13 @@
+{
+  "name": "Node_Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "today" : "node date.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
